@@ -1,0 +1,20 @@
+{
+    "author": "wondible",
+    "build": "66567",
+    "category": [
+        "in-game",
+        "ui"
+    ],
+    "context": "client",
+    "date": "2014/05/28",
+    "description": "Change Orange to Yellow so you can tell it from Red.",
+    "display_name": "Yellow Synchronous",
+    "enabled": true,
+    "forum": null,
+    "id": "yellow_synchronous",
+    "identifier": "com.wondible.pa.yellow_synchronous",
+    "priority": 100,
+    "requires": [],
+    "signature": "not yet implemented",
+    "version": "0.1.0"
+}
