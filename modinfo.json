@@ -6,7 +6,7 @@
         "ui"
     ],
     "context": "client",
-    "date": "2014/05/28",
+    "date": "2014/05/31",
     "description": "Change Orange to Yellow so you can tell it from Red.",
     "display_name": "Yellow Synchronous",
     "enabled": true,
@@ -15,6 +15,14 @@
     "identifier": "com.wondible.pa.yellow_synchronous",
     "priority": 100,
     "requires": [],
+    "scenes": {
+        "gw_start": [
+            "coui://ui/mods/yellow_synchronous/yellow_synchronous.js"
+        ],
+        "gw_play": [
+            "coui://ui/mods/yellow_synchronous/yellow_synchronous.js"
+        ]
+    },
     "signature": "not yet implemented",
-    "version": "0.1.0"
+    "version": "1.0.0"
 }
